@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @martinez-ed
-- 👀 I’m working to be a FullStack Web Developer...
-- 🌱 I’m currently learning JavaScript and Python.
+- 👀 Hi, I’m an Architect with more than 15 years of experience working as a Project Manager, but I am also a self-taught Full Stack Developer with a passion for sophisticated code. I have skills aimed at creativity, resilience, curiosity, the search for different ways of doing things. Reliability, tracking, and data-driven visual rules are the features I use to deliver a state-of-the-art experience.
+
 - 💞️ I’m looking to collaborate on MERN stacks and AI projects.
 - 📫 @martinez-ed
 
