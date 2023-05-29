@@ -4,5 +4,7 @@
 @martinxedw
 
 experience = ["Product Manager", "Software Engineer", "Cloud Architect"]
+
 skills = [Linux, GCP, DevOps, MERN Stack, Microservices, REST APIs]
+
 languages = [Python, Java, JavaScript, TypeScript]
